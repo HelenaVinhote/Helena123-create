@@ -1,7 +1,7 @@
 <h1 align="center">🩷 Hi, I'm Helena 🩷</h1>
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/163/163328.gif" width="100">
+  <img src="https://giffiles.alphacoders.com/163/163328.gif" width="80">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h2 align="center">About me</h2>
+<h2 align="left">About me</h2>
 <p>
   I am a graduate of the integrated high school and technical program in
   <strong><span style="color:#58A6FF;">Information Technology</span></strong>
@@ -28,3 +28,16 @@
   <strong><span style="color:#A371F7;">Artificial Intelligence</span></strong>
   at the Federal University of Western Pará (UFOPA).
 </p>
+
+<h2 align="left">Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,figma" height="50" alt="Python, MySQL e Figma"/>
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="50" alt="Cisco Packet Tracer"/>
+  <img src="https://cdn.simpleicons.org/scratch/FAB000" height="50" alt="Scratch"/>
+  <img src="https://cdn.simpleicons.org/gamemaker/000000" height="50" alt="GameMaker"/>
+  <img src="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2018%2F10%2F5bc1a508956e1.png&w=96&h=96&q=100" height="50" alt= "Lego education"/>
+</p>
+
+
+
+
