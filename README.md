@@ -17,3 +17,14 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<p>
+  I am a graduate of the integrated high school and technical program in
+  <strong><span style="color:#58A6FF;">Information Technology</span></strong>
+  at the Federal Institute of Pará (IFPA) – Santarém campus, with interests
+  in technology, education, robotics, and healthcare. Currently, I am pursuing
+  a degree in
+  <strong><span style="color:#A371F7;">Artificial Intelligence</span></strong>
+  at the Federal University of Western Pará (UFOPA).
+</p>
+
