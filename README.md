@@ -18,6 +18,7 @@
   </a>
 </p>
 
+<h2 align="center">About me</h2>
 <p>
   I am a graduate of the integrated high school and technical program in
   <strong><span style="color:#58A6FF;">Information Technology</span></strong>
@@ -27,4 +28,3 @@
   <strong><span style="color:#A371F7;">Artificial Intelligence</span></strong>
   at the Federal University of Western Pará (UFOPA).
 </p>
-
