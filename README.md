@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="www.linkedin.com/in/helena-dias-2a3378415">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -39,6 +39,9 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNWhK-R_Tbit9RrpbhpbOx1GtEEBgI94FnOcCU2E-HNA&s=10" height="50" alt= "Anvil"/>
 </p>
 
+<h2 align="left">Learning...</h2>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="50" alt="Arduino"/>
 
 
 
