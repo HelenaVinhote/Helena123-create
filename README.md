@@ -1,4 +1,4 @@
-<h1 align="center">🩷 Hi, I'm Helena 🩷</h1>
+<h1 align="center"> Hi, I'm Helena </h1>
 
 <p align="center">
   <img src="https://giffiles.alphacoders.com/163/163328.gif" width="80">
